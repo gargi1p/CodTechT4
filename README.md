@@ -1,5 +1,4 @@
-# Task 4: MySQL Database Backup and Recovery
-
+# 🚀 CodTech SQL Internship – Task 4
 ## ✅ Backup Process
 Command used:
 ```bash
